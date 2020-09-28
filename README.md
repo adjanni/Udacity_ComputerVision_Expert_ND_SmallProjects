@@ -39,6 +39,7 @@ In this part, I defined and trained my own convolution neural network for clothi
 
 I designed two convolutional layers (CL) with a maxpooling layer at the end of each CL. All of them were connected with two fully-connected linear layer.
 With an accuracy of 86%, the model performs well on everything but shorts and pullovers. I suggested ways to increase the accuracy. 
+
 The challenging project can be found here: [CNN_Clothing_Classification](https://github.com/adjanni/Udacity_ComputerVision_Expert_ND_SmallProjects/blob/master/Small_Projects_Fun/Project3_Build_CNN_Fashion_Clothings_Classification/FirstCNN%20Deep_Learning_CNN_for_Fashion-MNIST_Clothing_Classification.ipynb)
 
 ** Project: Facial KeyPoint Detection**
