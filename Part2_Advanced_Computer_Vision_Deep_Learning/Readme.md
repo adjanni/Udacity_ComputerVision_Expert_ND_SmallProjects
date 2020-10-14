@@ -1,5 +1,6 @@
-1. Lesson 1: Advanced CNN architecture
+The following are the lessons I have learned and mastered
 
+1. Lesson 1: Advanced CNN architecture
 I learned about advance CNN architectures and saw how region-based CNN such as FAST R-CNN have allowed for fast, localised object recognition in images.
 
 2. YOLO
@@ -11,10 +12,10 @@ I explored how memory can be incorporated into a deep learning model using recur
 4. LSTM
 I have read and watched the following materials
 
-  [1] [Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+[1] [Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   
-  [2] [Edwin Chen's LSTM post](http://blog.echen.me/2017/05/30/exploring-lstms/)
+[2] [Edwin Chen's LSTM post](http://blog.echen.me/2017/05/30/exploring-lstms/)
   
-  [3] [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY)
+[3] [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY)
 @adjanni
 Commit new file
