@@ -1,15 +1,19 @@
 The following are the lessons I have learned and mastered
 
 1. Lesson 1: Advanced CNN architecture
+
 I learned about advance CNN architectures and saw how region-based CNN such as FAST R-CNN have allowed for fast, localised object recognition in images.
 
 2. YOLO
+
 I learned and had hand on exerience about the YOLO multi-object detection model and work with a YOLO implementation.
 
 3. RNN's
+
 I explored how memory can be incorporated into a deep learning model using recurrent neural networkd (RNNs). Learned how RNNs can learn from and generate ordered sequences of
 
 4. LSTM
+
 I have read and watched the following materials
 
 [1] [Colah's blog](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
