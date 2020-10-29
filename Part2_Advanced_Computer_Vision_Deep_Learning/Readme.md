@@ -21,5 +21,9 @@ I have read and watched the following materials
 [2] [Edwin Chen's LSTM post](http://blog.echen.me/2017/05/30/exploring-lstms/)
   
 [3] [Andrej Karpathy's lecture](https://www.youtube.com/watch?v=iX5V1WpxxkY)
-@adjanni
-Commit new file
+
+5. Attention Mechanism
+
+This is one of the most recent breakthrough in deepleaning! I learned how attention models work and also implement some basic code. My intuition was further developped by reading Harshall Lamba blog post on attention mechanism. You can access my basic code implementation [here]()
+
+[1] [Harshall Lamba's attention mechanism blog](https://towardsdatascience.com/intuitive-understanding-of-attention-mechanism-in-deep-learning-6c9482aecf4f)
